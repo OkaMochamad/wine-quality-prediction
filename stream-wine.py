@@ -9,8 +9,8 @@ st.title('Prediksi Kualitas Wine')
 st.text('Nama : Oka Mochamad Ocktafian Setiadi')
 st.text('Nim : 191351184')
 st.text('Matkul : Business Intelligence')
-st.text('Keterangan : Untuk Inputan 3-7 Menandakan Kualitas Wine Sedang')
-st.text('Inputan 8 Menandakan Kualitas Wine Baik')
+st.text('Keterangan : Untuk Inputan 3-5 Menandakan Kualitas Wine Sedang')
+st.text('Inputan 6-8 Menandakan Kualitas Wine Baik')
 
 #membagi kolom
 col1, col2 = st.columns(2)
